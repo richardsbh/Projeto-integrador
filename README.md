@@ -5,6 +5,8 @@
  - <a href="#ciclo-de-vida-de-desenvolvimento">Ciclo de Vida de Desenvolvimento
 - <a href="#requisitos-funcionais">Requisitos Funcionais
 - <a href="#requisitos-não-funcionais"> Requisitos não funcionais
+- <a href="#diagrama-de-classes"> Diagrama de Classes
+- <a href="#diagrama-de-caso-de-uso"> Diagrama de Caso de Uso
 - <a href="#visão-geral-da-proposta"> Visão Geral da proposta
 - <a href="#objetivos">Objetivos
 - <a href="#protótipos"> Protótipos
@@ -59,6 +61,13 @@ Capacidade de lidar com grandes volumes de dados.
 ## Manutenibilidade:
 
 Código modular e documentado, facilitando a implementação de melhorias.
+
+# Diagrama de Classes
+
+![Diagrama de Classe] (/Prototipos%201/Diagrama%20de%20Classe.png)
+
+
+# Diagrama de Caso de Uso
 
 
 # Visão Geral da Proposta
