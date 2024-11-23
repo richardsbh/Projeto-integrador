@@ -8,6 +8,7 @@
 - <a href="#visão-geral-da-proposta"> Visão Geral da proposta
 - <a href="#objetivos">Objetivos
 - <a href="#protótipos"> Protótipos
+- <a href="#colaboradores"> Colaboradores
 
 
 ## Ciclo de Vida de Desenvolvimento
@@ -124,6 +125,20 @@ seja modular e fácil de manter, permitindo futuras expansões e adaptações.
 # Protótipos
 
 ! [] ()
+
+
+## Colaboradores
+
+Bruno Ruiz Ribeiro Machado
+
+Igor Barroso de Carvalho
+
+Renan Samuel de Oliveira
+
+Richard Carvalho Viana
+
+valdson S Almeida 
+
 
 
 
