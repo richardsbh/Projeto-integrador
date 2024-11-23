@@ -64,7 +64,8 @@ Código modular e documentado, facilitando a implementação de melhorias.
 
 # Diagrama de Classes
 
-![Diagrama de Classe] (/Prototipos%201/Diagrama%20de%20Classe.png)
+![Diagrama de Classe] (./blob/main/Prototipos%201/Diagrama%20de%20Classe.png)
+
 
 
 # Diagrama de Caso de Uso
